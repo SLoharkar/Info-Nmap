@@ -1,3 +1,15 @@
+printf " Automatically Check dependency and Install "
+a1=("nmap")
+i=0
+while [ $i -lt 1 ]
+do
+if ! which ${a1[$i]}  > /dev/null; then
+	sudo apt install ${a1[$i]} >/dev/null 2>&1 
+	
+fi
+i=`expr $i + 1`
+done 
+clear
 
 
 hello ()
