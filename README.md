@@ -31,6 +31,6 @@ chmod +x scan.sh && ./scan.sh
 **`Info-Nmap`** requires following programs to run properly -
 - `nmap`
 
-> All the depedencise will be installed automatically when you run `scan` for the first time
+> All the depedencies will be installed automatically when you run `scan` for the first time
 
 > Supported Platform : **`Kali Linux`**, **`Termux`**, **`Ubuntu/Debian/Kali`**, **`ArchLinux/Manjaro`**, **`Fedora`**
