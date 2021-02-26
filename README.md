@@ -27,9 +27,10 @@ git clone https://github.com/SLoharkar/Info-Nmap.git
 $ cd Info-Nmap
 chmod +x scan.sh && ./scan.sh
 ````
-## Dependency
+## Dependencies
 **`Info-Nmap`** requires following programs to run properly -
-```bash
-apt install nmap
-```
+- `nmap`
+
+> All the depedencise will be installed automatically when you run `scan` for the first time
+
 > Supported Platform : **`Kali Linux`**, **`Termux`**, **`Ubuntu/Debian/Kali`**, **`ArchLinux/Manjaro`**, **`Fedora`**
