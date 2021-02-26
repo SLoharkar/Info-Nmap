@@ -32,4 +32,4 @@ chmod +x scan.sh && ./scan.sh
 ```bash
 apt install nmap
 ```
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`ArchLinux/Manjaro`**, **`Fedora`**
+> Supported Platform : **`Kali Linux`**, **`Termux`**, **`Ubuntu/Debian/Kali`**, **`ArchLinux/Manjaro`**, **`Fedora`**
