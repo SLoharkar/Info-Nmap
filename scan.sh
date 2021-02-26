@@ -361,8 +361,7 @@ do
 				printf "\nPort Name :- SNMP\nPort Number :- 162\nPort Information :- \ni) Simple network management protocol is a networking protocol used for the management and monitoring of network-connected devices in Internet Protocol networks."
 				read -t 1000
 					
-		
-		
+				;;	
 			"exit")
 				break
 				;;	
