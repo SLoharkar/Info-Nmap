@@ -29,7 +29,7 @@ git clone https://github.com/SLoharkar/Info-Nmap.git
 - Change to cloned directory and run `scan.sh` -
 ````
 $ cd Info-Nmap
-chmod +x scan.sh && ./scan.sh
+chmod +x scan.sh && ./scan.sh OR bash scan.sh
 ````
 ## Dependencies
 **`Info-Nmap`** requires following programs to run properly -
