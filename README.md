@@ -1,4 +1,4 @@
-# Multifle Scan at one Place using Shell Script in Linux
+# Multiple Scan at one Place using Shell Script in Linux
 
 ## Introduction 
 - In the Shell Script is used to perform multiple scan at one place 
