@@ -1,9 +1,4 @@
 # Multiple Scan at one Place using Shell Script in Linux
-<html>
-  <head>
-<meta name="google-site-verification" content="s39e5vWLG64I4sgJmnUrZW49NxPUf5mZ6sQ5Yy6oeSc" />
-  </head>
-</html>
 
 ## Introduction 
 - In the Shell Script is used to perform multiple scan at one place 
